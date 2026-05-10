@@ -48,3 +48,4 @@ Maintained alongside Cursor-assisted development to record **scope shifts** and 
 ## Documentation & tooling
 
 - **Decision:** Ship `readme.md`, `plan.md`, `requirements.txt`, this log; initialise git and push when remote available.
+- **Done:** Local `git` repo with `.gitignore`; public remote **https://github.com/TiyahSingh/3AM-Snack** (`main` pushed via GitHub CLI).

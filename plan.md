@@ -15,7 +15,7 @@ Late-night cartoon kitchen adventure: procedural UI art, reactive layout, fricti
 | **M3 — Fridge & outcomes** | Hidden containers, keep/discard, mystery items, GOOD / CONFUSED / LOSE endings | ✅ |
 | **M4 — Polish & UX** | Responsive layout (`layout`, `wrap_fit`), sound (`SFX`), menu kitchen scene, HOW TO PLAY | ✅ |
 | **M5 — Assembly & taste** | 7-slot guide + 2 wildcard fills; taste stack from fridge picks; bite-by-bite finale | ✅ |
-| **M6 — Docs & release** | `README`, `requirements`, changelog-style refinements log, repo on GitHub | 🔄 |
+| **M6 — Docs & release** | `README`, `requirements`, changelog-style refinements log, repo on GitHub | ✅ |
 
 ---
 
