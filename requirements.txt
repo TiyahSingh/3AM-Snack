@@ -1,0 +1,7 @@
+# 3AM Snack — runtime dependencies
+# ------------------------------------------------------------------------------
+# Core: pygame 2.x. Use official pygame wheels when available:
+pygame>=2.5.0
+
+# Alternative drop-in fork (omit pygame line above if you switch):
+# pygame-ce>=2.5.0
