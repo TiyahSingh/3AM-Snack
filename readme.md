@@ -1,5 +1,7 @@
 # 3AM Snack
 
+**Repository:** [github.com/TiyahSingh/3AM-Snack](https://github.com/TiyahSingh/3AM-Snack)
+
 A playful **cartoon kitchen** snack quest built with **Pygame**: raid the fridge, wrangle the microwave, cut sausage, pan-cook heat, assemble a guided sandwich with two **“your pick”** slots, then finish the snack bite-by-bite with character reactions (**good / confused / lose**).
 
 ## Features (short)
